@@ -1,0 +1,26 @@
+first run myrrt result
+
+ans = 
+
+  tryrrt with properties:
+
+                 Xsoln: [123×2 double]
+                 cbest: 80.0709
+                  area: [2×2 double]
+                   obs: {2×1 cell}
+                 start: [10 50]
+                  goal: [90 50]
+                    Ta: [132×4 double]
+                    Tb: [200×4 double]
+                  step: 5
+             valid_len: 1
+                     n: 300
+          optimal_path: [3×2 double]
+    isInitialPathFound: 1
+         ellipseNodesA: [199×1 double]
+         ellipseNodesB: [132×1 double]
+                  cmin: 80
+                     C: [3×3 double]
+              x_center: [3×1 double]
+             pre_cbest: 80.0709
+              pre_path: [3×2 double]
