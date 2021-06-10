@@ -8,10 +8,10 @@ classical rrt-connect algorithm
 tryrrt.m:
 2D version
 
-tryrrt2.m
+tryrrt2.m:
 some faster improvements
 
-myrrt.m
+myrrt.m:
 7-dof version(run in a manipulator)
 
 #  2D results:
