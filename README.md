@@ -1,18 +1,16 @@
-# my-rrt
-This is my repository of some RRT(rapidly random-exploring tree) algorithm improvements:
-a improved informed-rrt*-connect algorithm 
+# multi-heuritic-rrt
+This is a improved RRT(rapidly random-exploring tree) algorithm:
+informed-rrt*-connect algorithm with path shrinkage, in short: multi-heuristic.
 # file descriptions
-test.m:
-classical rrt-connect algorithm
 
 tryrrt.m:
 2D version
 
 tryrrt2.m:
-some faster improvements
+some tricks to avoid too many path shrinkage precessing.
 
 myrrt.m:
-7-dof version(run in a manipulator)
+7-dof version(run with a manipulator)
 
 #  2D results:
 Using 1000 samples in a 100 * 100 area, pictures below show a quick asymptotically optimal path(yellow path) in ellipse informed subspace.
